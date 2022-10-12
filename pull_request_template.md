@@ -18,7 +18,7 @@ Please delete options that are not relevant.
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] This change requires a documentation update
 
-# Checklist:
+## Checklist
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my code
@@ -27,10 +27,10 @@ Please delete options that are not relevant.
 - [ ] My changes generate no new warnings
 - [ ] Any dependent changes have been merged and published in downstream modules
 
-# Deployment instructions
+## Deployment instructions
 
 Please mention deployment instructions, if any special care need to be taken.
 
-# Tested by
+## Tested by
 
 Mention name of QA, who tested this dev/bug.
